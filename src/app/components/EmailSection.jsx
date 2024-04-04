@@ -13,7 +13,7 @@ const EmailSection = () => {
     >
       <div className="z-10">
         <h5 className="text-xl font-bold text-white my-2">
-          Let&apos;s Connect
+          Let's Connect
         </h5>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/KS963000">
