@@ -55,7 +55,7 @@ const HeroSection = () => {
           <div className="rounded-full bg-gradient-to-r from-primary-400 to-secondary-600  w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative mt-10">
             <Image
               src="/images/xyz.png"
-              alt="hero image"
+              alt="image"
               className="w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative rounded-full aspect-square object-cover"
               width={300}
               height={300}

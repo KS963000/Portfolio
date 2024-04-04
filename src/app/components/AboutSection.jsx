@@ -62,7 +62,7 @@ const AboutSection = () => {
         About Me
       </h2>
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-6 xl:px-16">
-        <Image src="/images/about-image.png" width={500} height={500} />
+        <Image src="/images/about-image.png" alt="about" width={500} height={500} />
         <div className=" md:mt-0 text-left flex flex-col h-full">
           <p className="text-base lg:text-xl sm: mt-10">
             I'm all about creating awesome websites and applications. I love learning
