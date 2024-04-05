@@ -81,7 +81,7 @@ const AboutSection = () => {
               Skills{" "}
             </TabButton>
           </div>
-          <div className="mt-8 text-xl">
+          <div className="mt-8 text-lg">
             {TAB_DATA.find((t) => t.id === tab).content}
           </div>
         </div>
